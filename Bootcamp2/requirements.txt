@@ -1,0 +1,7 @@
+mypy==0.960
+SQLAlchemy==1.4.36
+pony
+statsmodels
+pymongo
+redis
+psycopg2
