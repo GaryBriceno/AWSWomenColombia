@@ -5,3 +5,7 @@ statsmodels
 pymongo
 redis
 psycopg2
+flask
+Flask-PyMongo
+fastapi
+uvicorn[standard]
